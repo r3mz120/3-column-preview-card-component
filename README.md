@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/r3mz120/3-column-preview-card-component)
+- Live Site URL: [Add live site URL here](https://r3mz120.github.io/3-column-preview-card-component/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://r3mz120.github.io/3-column-preview-card-component/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/r3mz120)
